@@ -1,16 +1,18 @@
-Car Price Predictor
+* Car Price Predictor
+
+
 Project link: https://car-price-price.herokuapp.com
 
 Quikr Analysis.ipynb
 
 
 
-Aim
+* Aim :
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
 
 
 
-How to use?
+* How to use?
 Clone the repository
 Install the required packages in "requirements.txt" file.
 Some packages are:
@@ -30,6 +32,6 @@ The data was cleaned (it was super unclean :( ) and analysed.
 
 Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
-Link for notebook: https://github.com/akshaysonu777/car_price_predictor/blob/master/Quikr%20Analysis.ipynb
+* Link for notebook: https://github.com/akshaysonu777/car_price_predictor/blob/master/Quikr%20Analysis.ipynb
 
 This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
